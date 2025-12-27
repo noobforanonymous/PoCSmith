@@ -173,4 +173,4 @@ I am not responsible for misuse of this tool. Users must obtain proper authoriza
 Built for the security research community.
 
 Version 1.0  
-By Regaan (RoTHackers)
+By Regaan
