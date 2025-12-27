@@ -357,7 +357,7 @@ Each day, create a file: `progress/dayXX_TOPIC.md`
 
 ---
 
-## 🚨 Risk Mitigation
+## Risk Mitigation
 
 ### Technical Risks
 1. **Model quality issues**
@@ -378,7 +378,7 @@ Each day, create a file: `progress/dayXX_TOPIC.md`
 
 ---
 
-## 📝 Documentation Standards
+## Documentation Standards
 
 ### Code Documentation
 - Docstrings for all functions/classes
