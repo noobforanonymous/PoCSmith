@@ -107,4 +107,4 @@ I, Regaan, the creator of PoCSmith, provide this tool AS-IS with NO WARRANTY.
 
 By using PoCSmith, you acknowledge that you have read, understood, and agree to follow these ethical guidelines and accept all legal responsibilities.
 
-Regaan (RoTHackers)
+Regaan
