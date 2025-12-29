@@ -134,7 +134,7 @@ Epoch 3.00: Loss 0.84, Acc 78.4%
 
 ## Model Artifacts
 
-**Output Directory:** `models/exploitgpt-v1/`
+**Output Directory:** `models/PoCSmith-v1/`
 
 **Files:**
 - `adapter_config.json` - LoRA configuration
