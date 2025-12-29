@@ -1,4 +1,4 @@
-# ExploitGPT - Model Fine-tuning Documentation
+# PoCSmith - Model Fine-tuning Documentation
 
 ## Overview
 
