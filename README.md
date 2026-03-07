@@ -1,10 +1,12 @@
-# PoCSmith
+# PoCSmith — AI-Driven Adversarial Artifact Generator
 
-**AI-Powered Proof-of-Concept Generator for Security Research**
+[![Version: 1.0.0](https://img.shields.io/badge/version-1.0.0-red?style=for-the-badge)](https://github.com/noobforanonymous/PoCSmith)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/noobforanonymous/PoCSmith)
+[![Status: Research](https://img.shields.io/badge/status-research-orange?style=for-the-badge)](https://github.com/noobforanonymous/PoCSmith)
 
-PoCSmith is an AI model fine-tuned on exploit code and CVE data to assist security researchers in generating proof-of-concept exploits and shellcode for defensive purposes.
+**PoCSmith** is a specialized AI model fine-tuned for the automated generation of proof-of-concept exploits and multi-platform shellcode. Designed as a research assistant for security engineers and red teams at the **ROT Independent Security Research Lab**, it utilizes a fine-tuned CodeLlama-7B backbone to translate vulnerability descriptions and CVE data into functional, high-quality offensive artifacts.
 
-Author: Regaan  
+**Lead Researcher:** Regaan (ROT Lab)
 ---
 
 ## Ethical Use Only
@@ -170,7 +172,10 @@ I am not responsible for misuse of this tool. Users must obtain proper authoriza
 
 ---
 
-Built for the security research community.
+## Author
 
-Version 1.0  
-By Regaan
+**Regaan** | Lead Researcher at **[ROT Independent Security Research Lab](https://rothackers.com)**
+
+---
+
+*Built for the global security research community by the ROT Independent Security Research Lab.*
