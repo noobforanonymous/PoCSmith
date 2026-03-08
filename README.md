@@ -1,8 +1,8 @@
 # PoCSmith — AI-Driven Adversarial Artifact Generator
 
-[![Version: 1.0.0](https://img.shields.io/badge/version-1.0.0-red?style=for-the-badge)](https://github.com/noobforanonymous/PoCSmith)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/noobforanonymous/PoCSmith)
-[![Status: Research](https://img.shields.io/badge/status-research-orange?style=for-the-badge)](https://github.com/noobforanonymous/PoCSmith)
+[![Version: 1.0.0](https://img.shields.io/badge/version-1.0.0-red?style=for-the-badge)](https://github.com/regaan/PoCSmith)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/regaan/PoCSmith)
+[![Status: Research](https://img.shields.io/badge/status-research-orange?style=for-the-badge)](https://github.com/regaan/PoCSmith)
 
 **PoCSmith** is a specialized AI model fine-tuned for the automated generation of proof-of-concept exploits and multi-platform shellcode. Designed as a research assistant for security engineers and red teams at the **ROT Independent Security Research Lab**, it utilizes a fine-tuned CodeLlama-7B backbone to translate vulnerability descriptions and CVE data into functional, high-quality offensive artifacts.
 
@@ -36,7 +36,7 @@ Use responsibly. Follow all applicable laws and regulations.
 ### Installation
 
 ```bash
-git clone https://github.com/noobforanonymous/PoCSmith.git
+git clone https://github.com/regaan/PoCSmith.git
 cd PoCSmith
 
 python3 -m venv venv

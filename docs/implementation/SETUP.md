@@ -16,7 +16,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/noobforanonymous/PoCSmith.git
+git clone https://github.com/regaan/PoCSmith.git
 cd PoCSmith
 ```
 

@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Regaan",
     author_email="regaan48@gmail.com",
-    url="https://github.com/noobforanonymous/PoCSmith",
+    url="https://github.com/regaan/PoCSmith",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     python_requires=">=3.11",
